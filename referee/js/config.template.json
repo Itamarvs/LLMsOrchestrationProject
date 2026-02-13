@@ -1,0 +1,25 @@
+{
+    "gmail": {
+        "account": "YOUR_EMAIL@gmail.com",
+        "credentials_path": "credentials.json"
+    },
+    "player": {
+        "user_id": "PLAYER_001",
+        "display_name": "My AI Player"
+    },
+    "referee": {
+        "user_id": "REF_001",
+        "group_id": "GROUP_01"
+    },
+    "league": {
+        "manager_email": "beit.halevi.100@gmail.com"
+    },
+    "app": {
+        "demo_mode": true,
+        "verbose": false
+    },
+    "database": {
+        "type": "sqlite",
+        "path": "q21.db"
+    }
+}
